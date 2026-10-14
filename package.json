@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irfan-2/mongoose-14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/irfan-2/mongoose-14/issues"
+  },
+  "homepage": "https://github.com/irfan-2/mongoose-14#readme",
+  "dependencies": {
+    "dotenv": "^18.0.7",
+    "express": "^5.3.0",
+    "mongoose": "^9.11.2"
+  }
+}
